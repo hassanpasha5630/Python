@@ -45,7 +45,8 @@ def LuckyWinnerSelector(Holder = []):
 	#This Function below lets you select more than one winner 
 
 	LuckyWinner2 = random.sample(Holder,1)
-	print(LuckyWinner2)
+	print("The lucky Winner is :" , LuckyWinner2)    
+#	print(LuckyWinner2)
 		
 
 # main function
